@@ -1,4 +1,5 @@
-# github-clone
+# Github Clone
+> Discord üzerinde toplandığımız arkadaşlarımızın vue.js öğrenebilmesi için başlattığımız ve herkesin ortak bir şekilde geliştirdiği proje.
 
 ## Project setup
 ```
