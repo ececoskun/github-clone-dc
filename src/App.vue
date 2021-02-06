@@ -7,8 +7,8 @@
 <script> 
 import Nav from './components/Shared/Nav.vue'
 export default{
-  components: { Nav },
-    name: "App"
+  name: "App",
+  components: { Nav }
 }
 </script>
 <style lang="scss">
