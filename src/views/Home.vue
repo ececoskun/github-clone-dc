@@ -1,15 +1,9 @@
 <template>
-    <div class="home">
-        <repo-card/>
-    </div>
+    <div class="home"></div>
 </template>
 
 <script>
-import RepoCard from "@/components/home/RepoCard"
 export default {
     name: "Home",
-    components:{
-        RepoCard
-    }
 };
 </script>
