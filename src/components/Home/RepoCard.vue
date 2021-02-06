@@ -4,10 +4,8 @@
 
 <script>
 export default {
-  name: "RepoCard",
-}
+  name: "RepoCard"
+};
 </script>
 
-<style>
-
-</style>
+<style></style>

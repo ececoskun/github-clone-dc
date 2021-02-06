@@ -1,15 +1,14 @@
 <template>
     <div id="app">
-        <nav/> 
+        <Nav />
         <router-view />
     </div>
 </template>
-<script> 
-import Nav from './components/Shared/Nav.vue'
-export default{
-  name: "App",
-  components: { Nav }
-}
+<script>
+import Nav from "./components/Shared/Nav.vue";
+export default {
+    name: "App",
+    components: { Nav },
+};
 </script>
-<style lang="scss">
-</style>
+<style lang="scss"></style>
